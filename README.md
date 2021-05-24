@@ -1,5 +1,19 @@
 ### Prova Web Sites
 
+**Informações**
+Data de início: 26/05 ás 19h.
+Data de entrega: 30/05 ás 23:59h.
+
+Enviar a prova por email ou link do repositório github (público) até a data de entrega.
+Adicionar ao corpo do email nome completo, matrícula e faculdade.
+
+email: lesimoes0@gmail.com
+
+**Provas fora da data não serão aceitas** 
+
+
+![projeto_final](https://github.com/Faculdade-Metodista-Granbery/Prova/blob/master/prova_web.gif?raw=true)
+
 **Questão 01:**
 Ajustar o site conforme imagem prova_web.gif
 Atenção para os detalhes, o site deve ser responsivo conforme mostra o gif.
