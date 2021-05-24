@@ -1,0 +1,42 @@
+.material-icons.icon-md { 
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    font-size: 34px; 
+  }
+
+  .menu-icons {
+      display: flex;
+      align-items: center;
+  }
+
+
+  .header-text {
+    display: flex;
+    justify-content: flex-start;
+  }
+
+  .vertical-line {
+    border-left: 1px solid rgba(96, 96, 96, 0.5);
+    height: 40px;
+    padding: 3%;
+  }
+
+
+  .poke {
+    flex: 1 0 33%;
+    height: 100%;
+    width: 10px;
+    margin-right: 0px;
+    margin-bottom: 30px;
+  }
+  
+
+
+  .title a,
+  span {
+    display: flex;
+    text-decoration: none;
+    color: rgb(96, 96, 96);
+    font-size: 14px;
+    justify-content: center;
+  }
