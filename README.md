@@ -24,7 +24,11 @@ Criar, pelo menos, duas páginas que exibe os detalhes do pokemon clicado na pá
 
 
 **Métricas de Pontuação**
+
 Responsividade: 2pts
+
 Replicar primeira página igual ao exemplo: 4pts
+
 Criatividade da página de detalhes do pokemon: 3pts
+
 Código bem escrito e indentado: 1pt
